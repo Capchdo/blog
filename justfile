@@ -19,5 +19,9 @@ serve *ARGS:
     {{ mkdocs }} serve {{ ARGS }}
 
 # Build the docs site
-build:
+build $CI="false":
     {{ mkdocs }} build
+
+# Deploy to $DEPLOY_DST
+deploy: (build "true")
+    rsync --recursive --delete --checksum --human-readable --verbose ./site/ {{ env_var('DEPLOY_DST') }}
