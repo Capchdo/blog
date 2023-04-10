@@ -1,0 +1,43 @@
+site_name: HaoBIT 博客
+site_description: 关于 HaoBIT 等。
+site_url: https://blog.haobit.top/
+
+locale: zh-CN
+# `locale` will be a warning, but used in RSS.
+# https://github.com/mkdocs/mkdocs/pull/2299
+
+theme:
+  name: material
+  palette:
+    primary: green
+  language: zh
+  features:
+    - navigation.top
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds: {}
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - mdx_truly_sane_lists
+
+plugins:
+  # If no plugins entry is set, MkDocs enables search by default, otherwise I have to declare it explicitly.
+  - search
+
+  # Extra plugins
+  # Some plugins are disabled for faster build times in development.
+  - rss:
+      enabled: !ENV [CI, false]
+  - git-revision-date-localized:
+      enabled: !ENV [CI, false]
+      enable_creation_date: true
+
+extra:
+  social:
+    - icon: simple/rss
+      link: https://blog.haobit.top/feed_rss_updated.xml
+      name: RSS
