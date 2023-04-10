@@ -11,8 +11,11 @@ theme:
   palette:
     primary: green
   language: zh
+  custom_dir: overrides
   features:
     - navigation.top
+  logo: assets/logo.png
+  favicon: assets/favicon-32x32.png
 
 markdown_extensions:
   - toc:
@@ -35,6 +38,9 @@ plugins:
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       enable_creation_date: true
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   social:
