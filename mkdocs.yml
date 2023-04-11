@@ -47,3 +47,6 @@ extra:
     - icon: simple/rss
       link: https://blog.haobit.top/feed_rss_updated.xml
       name: RSS
+  analytics:
+    provider: custom
+    property: 1ea80865c430437decf2e0e6bc4ae4c8
