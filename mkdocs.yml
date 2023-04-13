@@ -13,11 +13,13 @@ theme:
   language: zh
   custom_dir: overrides
   features:
+    - content.code.copy
     - navigation.top
   logo: assets/logo.png
   favicon: assets/favicon-32x32.png
 
 markdown_extensions:
+  - admonition
   - toc:
       permalink: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
@@ -25,6 +27,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
   - mdx_truly_sane_lists
 
 plugins:
