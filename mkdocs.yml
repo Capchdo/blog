@@ -41,6 +41,8 @@ plugins:
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       enable_creation_date: true
+      type: iso_date
+      timezone: Asia/Shanghai
 
 extra_css:
   - stylesheets/extra.css
