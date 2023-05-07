@@ -17,15 +17,15 @@
 
 ## :material-human-handsup: 项目成员
 
-- LYM（项目负责人、Capchdo 负责人）
+- CZLeader（项目负责人、Capchdo 负责人）
   - [lym@capchdo.com](mailto:lym@capchdo.com)
   - [Capchdo](https://www.capchdo.com/)
   - [Gitee: CZLeader](https://gitee.com/CZLeader)
-- XYC（项目技术负责人）
+- Y.D.X.（项目技术负责人）
   - [xyc@capchdo.com](mailto:xyc@capchdo.com)
   - [Gitee: YDX-2147483647](https://gitee.com/YDX-2147483647)
   - [GitHub: YDX-2147483647](https://github.com/YDX-2147483647)
-- LYC（项目成员）
+- Cal_Lightman（项目成员）
   - [lyc@capchdo.com](mailto:lyc@capchdo.com)
 - QXQ（项目成员）
   - [qxq@capchdo.com](mailto:qxq@capchdo.com)
