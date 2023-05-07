@@ -12,7 +12,7 @@
    - 若是安卓，可以考虑 [Feedly](https://feedly.com/)。
    - 若是某种苹果操作系统，可以考虑自由软件 [NetNewsWire](https://netnewswire.com/)。
 
-2. 直接访问 [RSS 源](https://haobit.top/dev/feed.rss)；或者使用浏览器访问 [haobit.top](https://haobit.top)，单击“通知”右侧的“同心圆弧系”:material-rss:。
+2. 访问 [RSS 源](https://haobit.top/dev/feed.rss)。
 
 3. 正常来讲，这会召唤你的阅读器，按提示操作即可。如果不正常，很遗憾需要手动添加，源地址如下，具体方法只能翻阅软件手册或搜索互联网了。
 
