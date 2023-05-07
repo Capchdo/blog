@@ -20,6 +20,7 @@
 - LYM（项目负责人、Capchdo 负责人）
   - [lym@capchdo.com](mailto:lym@capchdo.com)
   - [Capchdo](https://www.capchdo.com/)
+  - [Gitee: CZLeader](https://gitee.com/CZLeader)
 - XYC（项目技术负责人）
   - [xyc@capchdo.com](mailto:xyc@capchdo.com)
   - [Gitee: YDX-2147483647](https://gitee.com/YDX-2147483647)
