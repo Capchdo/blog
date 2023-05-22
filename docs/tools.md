@@ -2,7 +2,7 @@
 
 ## :octicons-question-24: 这是什么
 
-在这里，HaoBIT会提供一些小工具，以满足您的学习办公需求。
+在这里，HaoBIT会提供一些开箱即用的小工具，以满足您的学习办公需求。
 
 如果向用户开源，会标注:simple-opensourceinitiative:；如果程序支持自动更新，会标注:material-update:；如果更新内容由HaoBIT参与审查并代为发布，会标注:material-security-network:；由HaoBIT信赖的开发者提供更新，会标注:material-server-security:。
 
