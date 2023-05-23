@@ -14,7 +14,7 @@
 
 ## :octicons-list-ordered-24: 程序列表
 
-正在建设，即将推出
+[静思屏保](https://lab.capchdo.com/2023/05/23/1809/) :material-update::material-security-network::material-server-security:
 
 ## :material-information-variant-circle: 特别提醒
 
