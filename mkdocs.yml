@@ -20,6 +20,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - footnotes
   - toc:
       permalink: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
