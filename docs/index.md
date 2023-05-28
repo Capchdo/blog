@@ -10,7 +10,7 @@
 
 目前有如下模块。
 
-- **[欢迎 Home][haobit]**
+- :material-home: **[欢迎 Home][haobit]**
 
   - 搜索：搜索互联网。
 
@@ -24,7 +24,7 @@
 
   若想关闭其中一些模块，可到“[Profile][profile] → 配置 → 首页”修改。
 
-- **[配置 Profile][profile]**
+- :octicons-gear-24: **[配置 Profile][profile]**
 
   配置 HaoBIT 网页：启用哪些模块，显示哪些来源的通知、……
 
@@ -32,7 +32,7 @@
 
   注意“采用默认配置”与“不采用默认配置，但配置与默认相同”意义不同——我们更新默认配置时，前者会跟随变化，后者不会。
 
-- **[导航 Portal][portal]**
+- :material-routes: **[导航 Portal][portal]**
 
   在校内也能用的 [WebVPN](https://webvpn.bit.edu.cn) 镜像。
 
@@ -40,17 +40,17 @@
 
   抱歉因为跨域限制，我们无法检测您在校内还是在校外，还请手动切换。可在“[Profile][profile] → 配置 → URL 默认类型”修改默认在何处。
 
-- **[工具 Tools][tools]**
+- :material-tools: **[工具 Tools][tools]**
 
   一些工具，可到 QQ 交流群 [757113685](https://jq.qq.com/?_wv=1027&k=j13nOAhr) 毛遂自荐。
 
   另请参见 [best-of-BITs (bytes)](https://github.com/YDX-2147483647/best-of-bits/)。
 
-- **[网站 Sites][sites]**
+- :material-view-grid: **[网站 Sites][sites]**
 
   常用网站，正在迁移。
 
-- **[博客 Blog][blog]**
+- :material-book-multiple: **[博客 Blog][blog]**
 
   HaoBIT 相关新闻、说明书。
 
