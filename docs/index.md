@@ -6,7 +6,7 @@
     - 还在为找不到要打开学校内网页面而担忧吗？
     - 专为 BITers 设计的导航网站——[HaoBIT][haobit] 来了！
 
-    欢迎加入，同开发者一起，助力 HaoBIT 成长！
+    [欢迎加入](https://blog.haobit.top/about/)，同开发者一起，助力 HaoBIT 成长！
 
 目前有如下模块。
 
