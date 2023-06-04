@@ -12,7 +12,7 @@
 
 <!-- 但注意，HaoBIT无法实时确保支持自动更新但`不`将更新内容交由HaoBIT参与审查并代为发布的程序的安全。该类程序请您审慎下载。 -->
 
-开发者可以通过QQ群757113685或[Tools@capchdo.com](mailto:tools@capchdo.com)联系我们以提交您的程序。
+开发者可以通过QQ群757113685或[tools@capchdo.com](mailto:tools@capchdo.com)联系我们以提交您的程序。
 
 ## :octicons-list-ordered-24: 程序列表
 
