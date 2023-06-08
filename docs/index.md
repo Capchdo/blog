@@ -68,4 +68,4 @@
 
 ![233](https://www.bilibili.com/favicon.ico)
 
-![233](..\docs\img\第1次作业，前四题.png))
+![233](..\docs\img\第1次作业，前四题.png)
