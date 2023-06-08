@@ -68,4 +68,4 @@
 
 ![233](https://www.bilibili.com/favicon.ico)
 
-![233](https://gitee.com/czleader_rx2034/blog/blob/main/docs/img/%E7%AC%AC1%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%8C%E5%89%8D%E5%9B%9B%E9%A2%98.png)
+![233](..\docs/img/第1次作业，前四题.png)
