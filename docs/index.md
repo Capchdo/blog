@@ -15,7 +15,7 @@
   - 搜索框(red 2)：可直接进行百度搜索。
 
   - 天气(red 3)：从[天气网](https://www.tianqi.com/beijing/)获取的近日天气。
-    点击位置<房山>(blue 1)可更换地理位置（主动让父母及时增减衣物）
+    点击位置<房山>(blue 1)可更换地理位置（关心远方的ta）
 
   - [通知][notice]：大大的"通知"二字，下面汇总了来自 BIT 各种网站的通知（如果同学们发现有漏缺，请通过下方QQ群联系我们！）。[^bulletin-issues-transferred]
 
@@ -67,7 +67,7 @@
 
 - :material-tools: **[工具 Tools][tools]**
 
-  一些工具，可到 QQ 交流群 [757113685](https://jq.qq.com/?_wv=1027&k=j13nOAhr) 毛遂自荐。
+  一些工具。有想法的朋友，可到 QQ 交流群 [757113685](https://jq.qq.com/?_wv=1027&k=j13nOAhr) 联系我们。
 
   另请参见 [best-of-BITs (bytes)](https://github.com/YDX-2147483647/best-of-bits/)。
 
