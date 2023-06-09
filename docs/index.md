@@ -36,7 +36,9 @@
 
 - :octicons-gear-24: **[配置 Profile][profile]**
 ![Profile导览页](https://blog.haobit.top/img/Profile导览页.png)
+
   单击红圈2中的Expand/Collapse即可打开/关闭设置
+  
 ![Expand/Collapse](https://blog.haobit.top/img/单击Expand.png)
 
   配置 HaoBIT 网页：启用哪些模块，显示哪些来源的通知、……
