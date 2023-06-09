@@ -26,11 +26,11 @@
 
   单击小标题“通知”二字可[筛选来源](https://haobit.top/dev/site/notice/)，也可到“[Profile][profile] → 配置 → 通知”修改默认显示范围。
 
-  效果是这样的，可以通过点击对应通知来源旁边的“✗”号进行删除。
+  效果是这样的。删除请单击对应通知来源旁边的“✗”，或在最后输入框中按退格键<kbd>Backspace</kbd>。
 
   ![单击“通知”的效果](./img/单击“通知”的效果.png)
 
-  也可以点击“所有来源”效果如下。
+  添加请在最后输入框中搜索，也可单击“所有来源”。（如下图）
 
   ![单击“所有来源”的效果](./img/单击“所有来源”的效果.png)
 
@@ -40,7 +40,7 @@
 
   其原理是每日 8–21 时运行 [Bulletin Issues Transferred](https://github.com/YDX-2147483647/bulletin-issues-transferred/)，然后显示到这个网站。这部分采用 MIT License，同时提供 CLI、[RSS](./rss.md)、i北理 WebHook 机器人等方式。[^bulletin-issues-transferred]
 
-  **订阅服务**（blue 2）：单击蓝色框内的邮箱/wifi标识即可订阅通知至邮箱，操作如下：
+  [**订阅服务**](./rss.md)（blue 2）：单击蓝色框内的邮箱/RSS标识即可订阅通知至邮箱或 RSS 阅读器。操作如下：
 
   ![邮箱订阅通知](./img/订阅通知.png)
 
