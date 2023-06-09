@@ -6,40 +6,49 @@
     - 还在为找不到要打开学校内网页面而担忧吗？
     - 专为 BITers 设计的导航网站——[HaoBIT][haobit] 来了！
 
-    [欢迎加入](https://blog.haobit.top/about/)，同开发者一起，助力 HaoBIT 成长！
+    [欢迎加入](./about.md)，同开发者一起，助力 HaoBIT 成长！
 
 目前有如下模块。
 
 - :material-home: **[欢迎 Home][haobit]**
-![Home导览页](https://blog.haobit.top/img/Home导览页.png)
-  - 搜索框(red 2)：可直接进行百度搜索。
 
-  - 天气(red 3)：从[天气网](https://www.tianqi.com/beijing/)获取的近日天气。
-    点击位置<房山>(blue 1)可更换地理位置（关心远方的ta）
+  ![Home导览页](./img/Home导览页.png)
+
+  - 搜索框（red 2）：可直接进行百度搜索。
+
+  - 天气（red 3）：从[天气网](https://www.tianqi.com/beijing/)获取的近日天气。
+    点击位置<房山>（blue 1）可更换地理位置（关心远方的ta）
 
   - [通知][notice]：大大的"通知"二字，下面汇总了来自 BIT 各种网站的通知（如果同学们发现有漏缺，请通过下方QQ群联系我们！）。[^bulletin-issues-transferred]
 
     单击小标题“通知”二字可[筛选来源](https://haobit.top/dev/site/notice/)，也可到“[Profile][profile] → 配置 → 通知”修改默认显示范围。
   
     效果是这样的，可以通过点击对应通知来源旁边的"x"号进行删除
-    ![单击“通知”的效果](https://blog.haobit.top/img/单击“通知”的效果.png)
+    
+    ![单击“通知”的效果](./img/单击“通知”的效果.png)
+    
     也可以点击"所有来源"效果如下：(注：此修改和上一条修改都是临时性的，如需长期修改，请移步profile栏)
-    ![单击“所有来源”的效果](https://blog.haobit.top/img/单击“所有来源”的效果.png)
+    
+    ![单击“所有来源”的效果](./img/单击“所有来源”的效果.png)
 
     其原理是每日 8–21 时运行 [Bulletin Issues Transferred](https://github.com/YDX-2147483647/bulletin-issues-transferred/)，然后显示到这个网站。这部分采用 MIT License，同时提供 CLI、[RSS](./rss.md)、i北理 WebHook 机器人等方式。[^bulletin-issues-transferred]
 
     订阅服务(blue 2)：单击蓝色框内的邮箱/wifi标识即可订阅通知至邮箱，操作如下：
-![邮箱订阅通知](https://blog.haobit.top/img/订阅通知.png)
-      通过邮件订阅，访问 rssto.email，在红框处填写自己的邮箱，点击SUBSCRIBE，等待邮箱收到验证信息即可。
-![填写自己的邮箱](https://blog.haobit.top/img/填写自己的邮箱.png)
+
+    ![邮箱订阅通知](./img/订阅通知.png)
+
+    通过邮件订阅，访问 rssto.email，在红框处填写自己的邮箱，点击SUBSCRIBE，等待邮箱收到验证信息即可。
+
+    ![填写自己的邮箱](./img/填写自己的邮箱.png)
 
 
 - :octicons-gear-24: **[配置 Profile][profile]**
-![Profile导览页](https://blog.haobit.top/img/Profile导览页.png)
+
+  ![Profile导览页](./img/Profile导览页.png)
 
   单击红圈2中的Expand/Collapse即可打开/关闭设置
   
-![Expand/Collapse](https://blog.haobit.top/img/单击Expand.png)
+  ![Expand/Collapse](./img/单击Expand.png)
 
   配置 HaoBIT 网页：启用哪些模块，显示哪些来源的通知、……
 
@@ -49,12 +58,13 @@
 
   我们为大家提供了一些预设（单击即可设置）：
 
-  1.默认设置(默认全选)
+  1. 默认设置（默认全选）
 
-  2.干净模式
+  2. 干净模式
 
-  3.针对不同书院，我们在网页下方提供了不同的预设，例如：睿信书院的同学可以单击睿信书院完成设置——效果是取消了来自其他书院的讯息推送。
-![书院预设说明](https://blog.haobit.top/img/书院预设说明.png)
+  3. 针对不同书院，我们在网页下方提供了不同的预设，例如：睿信书院的同学可以单击睿信书院完成设置——效果是取消了来自其他书院的讯息推送。
+
+  ![书院预设说明](./img/书院预设说明.png)
 
 
 
@@ -82,7 +92,8 @@
   软件工具部分收集了团队常用的网页工具。
 
   其余部分留给大家探索（如有想要添加的网站，请通过交流群联系我们！）
-![website](https://blog.haobit.top/img/site网站.png)
+
+  ![website](./img/site网站.png)
   
 
 - :material-book-multiple: **[博客 Blog][blog]**
