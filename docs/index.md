@@ -17,18 +17,21 @@
   - 搜索框（red 2）：可直接进行百度搜索。
 
   - 天气（red 3）：从[天气网](https://www.tianqi.com/beijing/)获取的近日天气。
+
     点击位置<房山>（blue 1）可更换地理位置（关心远方的ta）
 
-  - [通知][notice]：大大的"通知"二字，下面汇总了来自 BIT 各种网站的通知（如果同学们发现有漏缺，请通过下方QQ群联系我们！）。[^bulletin-issues-transferred]
+  - [通知][notice]：大大的“通知”二字，下面汇总了来自 BIT 各种网站的通知。
+
+    （如果同学们发现有漏缺，请通过 [GitHub](https://github.com/ydX-2147483647/bulletin-issues-transferred/issues) 或 QQ 群 [757113685][qq] 联系我们！）
 
     单击小标题“通知”二字可[筛选来源](https://haobit.top/dev/site/notice/)，也可到“[Profile][profile] → 配置 → 通知”修改默认显示范围。
-  
-    效果是这样的，可以通过点击对应通知来源旁边的"x"号进行删除
-    
+
+    效果是这样的，可以通过点击对应通知来源旁边的“✗”号进行删除。
+
     ![单击“通知”的效果](./img/单击“通知”的效果.png)
-    
-    也可以点击"所有来源"效果如下：(注：此修改和上一条修改都是临时性的，如需长期修改，请移步profile栏)
-    
+
+    也可以点击“所有来源”效果如下：(注：此修改和上一条修改都是临时性的，如需长期修改，请移步profile栏)
+
     ![单击“所有来源”的效果](./img/单击“所有来源”的效果.png)
 
     其原理是每日 8–21 时运行 [Bulletin Issues Transferred](https://github.com/YDX-2147483647/bulletin-issues-transferred/)，然后显示到这个网站。这部分采用 MIT License，同时提供 CLI、[RSS](./rss.md)、i北理 WebHook 机器人等方式。[^bulletin-issues-transferred]
@@ -41,13 +44,12 @@
 
     ![填写自己的邮箱](./img/填写自己的邮箱.png)
 
-
 - :octicons-gear-24: **[配置 Profile][profile]**
 
   ![Profile导览页](./img/Profile导览页.png)
 
   单击红圈2中的Expand/Collapse即可打开/关闭设置
-  
+
   ![Expand/Collapse](./img/单击Expand.png)
 
   配置 HaoBIT 网页：启用哪些模块，显示哪些来源的通知、……
@@ -66,9 +68,6 @@
 
   ![书院预设说明](./img/书院预设说明.png)
 
-
-
-
 - :material-routes: **[导航 Portal][portal]**
 
   在校内也能用的 [WebVPN](https://webvpn.bit.edu.cn) 镜像。
@@ -79,12 +78,12 @@
 
 - :material-tools: **[工具 Tools][tools]**
 
-  一些工具。有想法的朋友，可到 QQ 交流群 [757113685](https://jq.qq.com/?_wv=1027&k=j13nOAhr) 联系我们。
+  一些工具。有想法的朋友，可到 QQ 交流群 [757113685][qq] 联系我们。
 
   另请参见 [best-of-BITs (bytes)](https://github.com/YDX-2147483647/best-of-bits/)。
 
 - :material-view-grid: **[网站 Sites][sites]**
-  
+
   sites部分收集了大量的常用网站，根据最左侧的目录可以看到各种类型的网页。
 
   理工快达部分，提供校内/校外访问的切换。
@@ -94,7 +93,6 @@
   其余部分留给大家探索（如有想要添加的网站，请通过交流群联系我们！）
 
   ![website](./img/site网站.png)
-  
 
 - :material-book-multiple: **[博客 Blog][blog]**
 
@@ -109,3 +107,4 @@
 [sites]: https://haobit.top/dev/site/sites
 [blog]: https://haobit.top/dev/site/blog
 [notice]: https://haobit.top/dev/site/notice/
+[qq]: https://jq.qq.com/?_wv=1027&k=j13nOAhr
