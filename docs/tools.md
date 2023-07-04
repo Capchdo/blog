@@ -20,6 +20,8 @@
 
 [文字比较器](https://lab.capchdo.com/2023/06/06/1828/) :material-update::material-security-network::material-server-security:
 
+[内容复制器](https://lab.capchdo.com/2023/07/04/1845/) :material-update::material-security-network::material-server-security:
+
 ## :material-information-variant-circle: 特别提醒
 
 !!! note "注"
