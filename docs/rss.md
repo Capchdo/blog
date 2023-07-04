@@ -24,6 +24,8 @@
 
 访问 [rssto.email](https://rssto.email/?url=https://haobit.top/dev/feed.rss)，填写自己的邮箱。
 
+![填写自己的邮箱](./img/填写自己的邮箱.png)
+
 等待几分钟，应该会收到`mailer@rssto.email`发来的邮件 Confirm subscription to haobit.top，单击邮件中的“Confirm subscription”。
 
 !!! tip "提示"
