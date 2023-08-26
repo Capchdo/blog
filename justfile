@@ -12,7 +12,7 @@ mkdocs := python + " -m mkdocs"
 # Install/upgrade MkDocs, its plugins, and markdown extensions
 bootstrap:
     {{ pip }} install mkdocs-material --upgrade
-    {{ pip }} install mdx_truly_sane_lists mkdocs-rss-plugin mkdocs-git-revision-date-localized-plugin --upgrade
+    {{ pip }} install mdx_truly_sane_lists mkdocs-rss-plugin mkdocs-git-revision-date-localized-plugin jieba --upgrade
 
 # Start the live-reloading docs server
 serve *ARGS:

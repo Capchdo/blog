@@ -15,6 +15,7 @@ theme:
   features:
     - content.code.copy
     - navigation.top
+    - search.highlight
   logo: assets/logo.png
   favicon: assets/favicon-32x32.png
 
@@ -33,7 +34,9 @@ markdown_extensions:
 
 plugins:
   # If no plugins entry is set, MkDocs enables search by default, otherwise I have to declare it explicitly.
-  - search
+  - search:
+      separator: '[\s\u200b\-]'
+      # 零宽空格用于中文搜索
 
   # Extra plugins
   # Some plugins are disabled for faster build times in development.
