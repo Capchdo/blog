@@ -1,6 +1,9 @@
 site_name: HaoBIT 博客
 site_description: 关于 HaoBIT 等。
 site_url: https://blog.haobit.top/
+repo_url: https://github.com/Capchdo/blog
+repo_name: Capchdo/blog
+edit_uri: "blob/main/docs/"
 
 locale: zh-CN
 # `locale` will be a warning, but used in RSS.
@@ -14,6 +17,8 @@ theme:
   custom_dir: overrides
   features:
     - content.code.copy
+    - content.action.view
+    - content.action.edit
     - navigation.top
     - search.highlight
   logo: assets/logo.png

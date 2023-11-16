@@ -109,6 +109,6 @@ HaoBIT 相关新闻、说明书。
 [portal]: https://haobit.top/dev/site/portal
 [tools]: https://haobit.top/dev/site/tools
 [sites]: https://haobit.top/dev/site/sites
-[blog]: https://haobit.top/dev/site/blog
+[blog]: https://blog.haobit.top
 [notice]: https://haobit.top/dev/site/notice/
 [qq]: https://jq.qq.com/?_wv=1027&k=j13nOAhr
