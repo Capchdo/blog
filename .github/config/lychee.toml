@@ -1,0 +1,7 @@
+cache = true
+max_cache_age = "2d"
+
+exclude = [
+  "webvpn.bit.edu.cn", # Timeout
+  "feed_rss_(updated|created).xml", # To be generated
+]
