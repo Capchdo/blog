@@ -1,5 +1,25 @@
 # 爆炸记录
 
+## 2023年12月10日上午
+
+504 Gateway Timeout，但 dashboard 还能打开一点（清除 CDN 缓存后也 504），且 HTTP → HTTPS 正常。似乎是昨晚未正常重启的缘故。
+
+```
+HTTP/2.0 504 Gateway Timeout
+accept-ranges: none
+cache-control: no-cache
+content-length: 15
+content-type: text/plain
+date: Sun, 10 Dec 2023 02:06:04 GMT
+ohc-cache-hit: ts7un82 [1], qdix116 [0]
+ohc-file-size: 15
+server: JSP3/2.0.14
+x-cache-status: MISS
+x-error-info: External_SSLConnection
+
+Gateway Timeout
+```
+
 ## 2023年11月14日晚
 
 11月起改用`podman`管理服务。
