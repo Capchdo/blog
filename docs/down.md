@@ -2,7 +2,7 @@
 
 ## 2023年12月10日上午
 
-504 Gateway Timeout，但 dashboard 还能打开一点（清除 CDN 缓存后也 504），且 HTTP → HTTPS 正常。似乎是昨晚未正常重启的缘故。
+504 Gateway Timeout，但 dashboard 还能打开一点（清除 CDN 缓存后也 504），且 HTTP → HTTPS 正常，而且服务器还能正常收到一些请求。
 
 ```
 HTTP/2.0 504 Gateway Timeout
@@ -19,6 +19,8 @@ x-error-info: External_SSLConnection
 
 Gateway Timeout
 ```
+
+原因不明。重启服务器，重置`podman`，重新安装证书，在`docker-compose.yml`中指明网络，然后就正常了。
 
 ## 2023年11月14日晚
 
