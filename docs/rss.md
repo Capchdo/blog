@@ -12,17 +12,17 @@
    - 若是安卓，可以考虑 [Feedly](https://feedly.com/)。
    - 若是某种苹果操作系统，可以考虑自由软件 [NetNewsWire](https://netnewswire.com/)。
 
-2. 访问 [RSS 源](https://haobit.top/dev/feed.rss)。
+2. 访问 [RSS 源](https://haobit.top/feed.rss)。
 
 3. 正常来讲，这会召唤你的阅读器，按提示操作即可。如果不正常，很遗憾需要手动添加，源地址如下，具体方法只能翻阅软件手册或搜索互联网了。
 
     ```
-    https://haobit.top/dev/feed.rss
+    https://haobit.top/feed.rss
     ```
 
 ## :octicons-mail-24: 通过邮件订阅
 
-访问 [rssto.email](https://rssto.email/?url=https://haobit.top/dev/feed.rss)，填写自己的邮箱。
+访问 [rssto.email](https://rssto.email/?url=https://haobit.top/feed.rss)，填写自己的邮箱。
 
 ![填写自己的邮箱](./img/填写自己的邮箱.png)
 

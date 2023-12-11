@@ -44,7 +44,7 @@
 
   ![邮箱订阅通知](./img/订阅通知.png)
 
-  通过邮件订阅，访问 [rssto.email](https://rssto.email/?url=https://haobit.top/dev/feed.rss)，在红框处填写自己的邮箱，点击SUBSCRIBE，等待邮箱收到验证信息即可。
+  通过邮件订阅，访问 [rssto.email](https://rssto.email/?url=https://haobit.top/feed.rss)，在红框处填写自己的邮箱，点击SUBSCRIBE，等待邮箱收到验证信息即可。
 
   ![填写自己的邮箱](./img/填写自己的邮箱.png)
 
