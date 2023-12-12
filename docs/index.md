@@ -22,7 +22,7 @@
 
 - [**通知**][notice]：大大的“通知”二字，下面汇总了来自 BIT 各种网站的通知。
 
-  （如果同学们发现有漏缺，请通过 [GitHub](https://github.com/ydX-2147483647/bulletin-issues-transferred/issues) 或 QQ 群 [757113685][qq] 联系我们！）
+  （如果同学们发现有漏缺，请通过 [GitHub](https://github.com/ydX-2147483647/bulletin-issues-transferred/issues)、QQ 群 [757113685][qq] 或[邮件](mailto:contact@capchdo.com)联系我们！）
 
   单击小标题“通知”二字可[筛选来源](https://haobit.top/dev/site/notice/)，也可到“[Profile][profile] → 配置 → 通知”修改默认显示范围。
 
