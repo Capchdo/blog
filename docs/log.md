@@ -1,5 +1,14 @@
 # 更新日志
 
+## 2023年12月15日上午：`uptime.haobit.top`
+
+开设了 [BIT 网站的非官方监控](https://uptime.haobit.top/status/server)。
+
+## 2023年12月12日上午：`dev.haobit.top`等
+
+- 开设了[`dev.haobit.top`](https://dev.haobit.top)，用于内部测试。
+- 未正常加载时提示。
+
 ## 2023年12月11日晚上至2023年12月12日凌晨：简化 URL
 
 - `haobit.top/dev/site/image/` → `img.haobit.top/`
