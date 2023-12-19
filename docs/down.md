@@ -1,5 +1,9 @@
 # 爆炸记录
 
+## 2023年12月19日晚上
+
+bulletin-issues-transferred 容器状态异常，并且删除重建仍异常。最后`sudo reboot`了一下。
+
 ## 2023年12月10日上午
 
 504 Gateway Timeout，但 dashboard 还能打开一点（清除 CDN 缓存后也 504），且 HTTP → HTTPS 正常，而且服务器还能正常收到一些请求。
