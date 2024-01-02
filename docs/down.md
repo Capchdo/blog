@@ -1,5 +1,9 @@
 # 爆炸记录
 
+## 2024年1月2日上午
+
+2024-01-01T22:58:38Z Traefik 自动重启，成功停止，但启动时卡住，所有服务在 CDN 缓存过期后 504 Gateway Timeout。
+
 ## 2023年12月19日晚上
 
 bulletin-issues-transferred 容器状态异常，并且删除重建仍异常。最后`sudo reboot`了一下。
