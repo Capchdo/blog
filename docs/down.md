@@ -2,7 +2,15 @@
 
 ## 2024年2月7日中午
 
-最晚12时开始，通知空白，只剩CDN缓存。服务器连不上SSH，供应商控制台显示CPU、内存使用率大概都在90%以上。
+最晚12时开始，通知空白，只剩CDN缓存。服务器连不上SSH，供应商控制台显示CPU、内存使用率大概都在90%以上。13:26重启完就好了。
+
+人工运行 BulletinIT，似乎有问题：
+
+```log
+Error: Could not parse CSS stylesheet
+  at exports.createStylesheet (/home/node/app/node_modules/jsdom/lib/jsdom/living/helpers)
+  …
+```
 
 ## 2024年2月4日中午
 
