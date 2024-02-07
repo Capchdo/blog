@@ -22,6 +22,10 @@
 
 ## :octicons-mail-24: 通过邮件订阅
 
+!!! failure "当前失效"
+
+    此方法现已失效，相关进展请参考本页评论。
+
 访问 [rssto.email](https://rssto.email/?url=https://haobit.top/feed.rss)，填写自己的邮箱。
 
 ![填写自己的邮箱](./img/填写自己的邮箱.png)
