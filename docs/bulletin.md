@@ -1,15 +1,31 @@
 # 公告
 
-## ***活动的*** 2024年2月4日
+## （已完成）2024年2月4日：简化URL
 
-HaoBIT在近期会进行更新，更新的核心内容为简化URL。本次更新**普通用户可以忽略**。
+!!! success "已完成"
 
-具体更新内容为：
+    2024年3月9日已更新。
 
-- 将主站地址从`https://haobit.top/dev/site/`切换至`https://haobit.top/`，原有地址会自动跳转到新地址。
+HaoBIT会在近期简化URL。旧址会自动跳转到新址，故本次更新**普通用户可以忽略**。
 
-- 网址导航页面从`https://haobit.top/dev/website.html`与`https://haobit.top/dev/website_outside.html`切换至`https://haobit.top/website.html`与`https://haobit.top/website_outside.html`，原有地址会自动跳转到新地址。
+具体更新内容为如下。
 
-- **（对开发者）**`https://haobit.top/dev/site/{A}`会被302跳转（不排除未来更换为301跳转）到`https://haobit.top/{A}`，同时相应的资源会被移动到新地址下。这可能涉及到一些json文件。理论上原有地址仍然可以正常访问资源，但仍有可能出现意外情况。我们建议依赖于以上目录中的内容的开发者注意更新前后相关资源的可用性，或换用新的地址。出现问题请及时向我们报告。
+- 主站：
 
-您可以通过[*关于*](./about.md)页面提及的联系方式同我们取得联系。
+  - `https://haobit.top/dev/site/` → `https://haobit.top/`
+
+- 网址导航：
+
+  - `https://haobit.top/dev/website.html` → `https://haobit.top/website.html`
+  - `https://haobit.top/dev/website_outside.html` → `https://haobit.top/website_outside.html`
+  - `https://haobit.top/dev/Tools.html` → `https://haobit.top/Tools.html`
+
+- **对开发者**`：
+
+  - `https://haobit.top/dev/(?:site/)?(.*)` → `https://haobit.top/$1`
+  
+  目前所有跳转均为 302 Found，不排除未来更换为 301 Moved Permanently。
+  
+  理论上旧址仍可用，但也许有意外。如果您依赖相关内容（例如`*.json`），我们建议换用新址。出现问题请及时向我们报告。
+
+您可以通过[关于](./about.md)页面提及的联系方式同我们取得联系。

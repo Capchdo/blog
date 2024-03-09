@@ -24,7 +24,7 @@
 
   （如果同学们发现有漏缺，请通过 [GitHub](https://github.com/ydX-2147483647/bulletin-issues-transferred/issues)、QQ 群 [757113685][qq] 或[邮件](mailto:contact@capchdo.com)联系我们！）
 
-  单击小标题“通知”二字可[筛选来源](https://haobit.top/dev/site/notice/)，也可到“[Profile][profile] → 配置 → 通知”修改默认显示范围。
+  单击小标题“通知”二字可[筛选来源][notice]，也可到“[Profile][profile] → 配置 → 通知”修改默认显示范围。
 
   效果是这样的。删除请单击对应通知来源旁边的“✗”，或在最后输入框中按退格键<kbd>Backspace</kbd>。
 
@@ -105,10 +105,10 @@ HaoBIT 相关新闻、说明书。
 [^bulletin-issues-transferred]: Bulletin Issues Transferred 还可脱离本项目自主运行。Bulletin Issues Transferred 是这个系列最早的项目之一，[2021年12月6日发起](https://github.com/YDX-2147483647/bulletin-issues-transferred/commit/6119c3207bb30ad865d2863a2cdb1321b5456023)，2023年2月23日 [GitHub 仓库](https://github.com/YDX-2147483647/bulletin-issues-transferred/)获得了第一颗星，而 [Gitee 仓库](https://gitee.com/YDX-2147483647/bulletin-issues-transferred/)至今还没被人发现。
 
 [haobit]: https://haobit.top
-[profile]: https://haobit.top/dev/site/profile
-[portal]: https://haobit.top/dev/site/portal
-[tools]: https://haobit.top/dev/site/tools
-[sites]: https://haobit.top/dev/site/sites
+[profile]: https://haobit.top/profile
+[portal]: https://haobit.top/portal
+[tools]: https://haobit.top/tools
+[sites]: https://haobit.top/sites
 [blog]: https://blog.haobit.top
-[notice]: https://haobit.top/dev/site/notice/
+[notice]: https://haobit.top/notice/
 [qq]: https://jq.qq.com/?_wv=1027&k=j13nOAhr
