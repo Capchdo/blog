@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2024年9月10日：`bit-portal.netlify.app`
+
+开设了 [BIT Portal](https://bit-portal.netlify.app/)，克隆并改进网瑞达资源访问控制系统门户。源代码在 [Capchdo/portal](https://github.com/Capchdo/portal)。
+
 ## 2023年12月15日上午：`uptime.haobit.top`
 
 开设了 [BIT 网站的非官方监控](https://uptime.haobit.top/status/server)。
