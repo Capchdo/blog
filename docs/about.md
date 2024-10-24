@@ -40,6 +40,11 @@
 
 - 采用的开源项目：
   - [gena](https://gitee.com/czleader/web)
+ 
+- 部分静态页面：
+  - [HaoBIT网址导航 - 校内模式](https://haobit.top/website.html)
+  - [HaoBIT网址导航 - 校外模式](https://haobit.top/website_outside.html)
+  - [THU网址导航 - HaoBIT](https://thu.haobit.top/)
 
 - 项目部分源代码：
   - [bulletin-issues-transferred](https://github.com/YDX-2147483647/bulletin-issues-transferred)（[Gitee 镜像](https://gitee.com/YDX-2147483647/bulletin-issues-transferred)）
