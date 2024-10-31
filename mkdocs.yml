@@ -68,8 +68,6 @@ plugins:
       enable_creation_date: true
       type: iso_date
       timezone: Asia/Shanghai
-  - privacy:
-      enabled: !ENV [CI, false]
 
 extra_css:
   - stylesheets/extra.css
