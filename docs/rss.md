@@ -22,9 +22,9 @@
 
 ## :octicons-mail-24: 通过邮件订阅
 
-!!! failure "当前失效"
+!!! warning "曾经失效"
 
-    此方法现已失效，相关进展请参考本页评论。
+    此方法[曾经失效](https://github.com/aksh-at/rss-to-email/issues/2)，现已恢复，但也未必稳定。相关进展请参考本页评论。
 
 访问 [rssto.email](https://rssto.email/?url=https://haobit.top/feed.rss)，填写自己的邮箱。
 
