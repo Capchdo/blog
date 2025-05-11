@@ -1,5 +1,15 @@
 # 公告
 
+## 2025年5月10日：暂停部分通知来源
+
+[5月10日学校网信中心升级了统一身份认证系统](https://itc.bit.edu.cn/tzgg/997be9f3c1fe4c26a33285f60d3003dc.htm)，登录接口有变，导致部分通知来源暂时无法更新。涉及的域名如下。
+
+- century.bit.edu.cn
+- cxcy.bit.edu.cn
+- dzb.bit.edu.cn
+- mec.bit.edu.cn
+- student.bit.edu.cn
+
 ## （已完成）2024年2月4日：简化URL
 
 !!! success "已完成"
