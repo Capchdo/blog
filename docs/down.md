@@ -4,6 +4,12 @@
 
     以下所有日期时间均按 UTF-8。
 
+## 2026年2月10日：RSS更新停滞
+
+[2026年1月14日更新通知来源](https://github.com/YDX-2147483647/bulletin-issues-transferred/pull/68)时，修改了某些来源的名称，例如“知艺”改为“[设艺](https://haobit.top/notice/source/设艺/)”。然而部署时未完整进行兼容操作，导致RSS模块自当日起报错，无法更新[`feed.rss`](./rss.md)。其它模块未受影响，仍能正常获取通知并显示于网页。
+
+2026年2月10日[fishyy119反馈并定位错误](https://github.com/Capchdo/blog/discussions/6#discussioncomment-15757189)，现已恢复。
+
 ## 2025年12月27日：所有服务失效
 
 今日17时升级操作系统Ubuntu，意外造成AppArmor服务掉线，导致podman无法工作。23时通过重启AppArmor恢复。
